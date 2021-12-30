@@ -1,3 +1,14 @@
+# # 백준 2438번 문제
+# n= int(input())
+
+# for i in range(1,n+1):
+#     print("*"*i)
+
+# # 백준 2439번 문제
+# n = int(input())
+# for i in range(1,n+1):
+#     print(" " * (n-i) + "*" * i)
+
 #백준 2240번 문제
 # n = int(input())
 
@@ -43,6 +54,9 @@
 
 # for i in range(n-1,0,-1):
 #     print(" " * (n-i) + "*" *i)
+
+
+
 
 
 
