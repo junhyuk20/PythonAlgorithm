@@ -20,12 +20,12 @@
 # 이문제도 생각해 봐야 될것들이 있다...
 # 첫번째 처음과 끝을 만들어 놓기
 # 두번째 중간에 어떻게 빈칸을 채워서 넣을 것인지를 생각해야 되는 문제이다.
-n = int(input())
+# n = int(input())
 
-for i in range(1,n+1):
-    if i == n :
-        print(" " * (n-i) + "*" * ((2*i)-1))
-    elif i == 1 :
-        print(" " * (n-i) + "*")
-    else :
-        print(" " * (n-i) + "*" + " " * (2*i-3) + "*" )
+# for i in range(1,n+1):
+#     if i == n :
+#         print(" " * (n-i) + "*" * ((2*i)-1))
+#     elif i == 1 :
+#         print(" " * (n-i) + "*")
+#     else :
+#         print(" " * (n-i) + "*" + " " * (2*i-3) + "*" )
